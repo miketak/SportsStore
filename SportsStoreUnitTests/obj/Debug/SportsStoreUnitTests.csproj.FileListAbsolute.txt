@@ -70,3 +70,39 @@ C:\Users\Mike T\Documents\Visual Studio 2013\Projects\1_Working on\SportsStore\S
 C:\Users\Mike T\Documents\Visual Studio 2013\Projects\1_Working on\SportsStore\SportsStoreUnitTests\obj\Debug\SportsStoreUnitTests.csprojResolveAssemblyReference.cache
 C:\Users\Mike T\Documents\Visual Studio 2013\Projects\1_Working on\SportsStore\SportsStoreUnitTests\obj\Debug\SportsStoreUnitTests.dll
 C:\Users\Mike T\Documents\Visual Studio 2013\Projects\1_Working on\SportsStore\SportsStoreUnitTests\obj\Debug\SportsStoreUnitTests.pdb
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\SportsStoreUnitTests.dll.config
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\SportsStoreUnitTests.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\SportsStoreUnitTests.pdb
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\Castle.Core.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\Moq.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\Ninject.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\SportsStoreDomain.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\SportsStoreWeb.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\System.Web.Razor.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\WebActivatorEx.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\EntityFramework.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\SportsStoreDomain.pdb
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\SportsStoreWeb.pdb
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\Castle.Core.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\Moq.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\Ninject.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\System.Web.Razor.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\bin\Debug\EntityFramework.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\obj\Debug\SportsStoreUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\obj\Debug\SportsStoreUnitTests.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreUnitTests\obj\Debug\SportsStoreUnitTests.pdb

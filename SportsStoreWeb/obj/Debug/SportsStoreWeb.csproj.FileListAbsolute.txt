@@ -69,3 +69,38 @@ C:\Users\Mike T\Documents\Visual Studio 2013\Projects\1_Working on\SportsStore\S
 C:\Users\Mike T\Documents\Visual Studio 2013\Projects\1_Working on\SportsStore\SportsStoreWeb\obj\Debug\SportsStoreWeb.csprojResolveAssemblyReference.cache
 C:\Users\Mike T\Documents\Visual Studio 2013\Projects\1_Working on\SportsStore\SportsStoreWeb\obj\Debug\SportsStoreWeb.dll
 C:\Users\Mike T\Documents\Visual Studio 2013\Projects\1_Working on\SportsStore\SportsStoreWeb\obj\Debug\SportsStoreWeb.pdb
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\SportsStoreWeb.dll.config
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\SportsStoreWeb.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\SportsStoreWeb.pdb
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\Castle.Core.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\EntityFramework.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\Moq.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\Ninject.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\Ninject.Web.Common.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\Ninject.Web.Mvc.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\SportsStoreDomain.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\System.Web.Helpers.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\System.Web.Mvc.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\System.Web.Razor.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\System.Web.Webpages.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\WebActivatorEx.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\SportsStoreDomain.pdb
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\Castle.Core.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\EntityFramework.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\Moq.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\Ninject.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\Ninject.Web.Common.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\Ninject.Web.Mvc.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\System.Web.Razor.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\System.Web.Webpages.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\System.Web.Helpers.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\bin\System.Web.Mvc.xml
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\obj\Debug\SportsStoreWeb.csprojResolveAssemblyReference.cache
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\obj\Debug\SportsStoreWeb.dll
+C:\Users\Mike T\Desktop\MICHAELTAKRAMA\SportsStore\SportsStoreWeb\obj\Debug\SportsStoreWeb.pdb

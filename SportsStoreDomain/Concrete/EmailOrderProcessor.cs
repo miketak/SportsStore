@@ -65,14 +65,22 @@ namespace SportsStoreDomain.Concrete
                         shippingInfo.GiftWrap ? "Yes" : "No");
 
                 var mailMessage = new MailMessage(
-                    _emailSettings.MailFromAddress, // From
-                    _emailSettings.MailToAddress, // To
+                    _emailSettings.MailFromAddress = "info@stablecorps.com", // From
+                    _emailSettings.MailToAddress = "mtakrama@yahoo.com", // To
                     "New order submitted!", // Subject
                     body.ToString()); // Body
 
                 if (_emailSettings.WriteAsFile)
                     mailMessage.BodyEncoding = Encoding.ASCII;
-                smtpClient.Send(mailMessage);
+                try
+                {
+                    smtpClient.Send(mailMessage);
+                }
+                catch
+                {
+                    //email settings to be made
+                }
+                
             }
         }
     }

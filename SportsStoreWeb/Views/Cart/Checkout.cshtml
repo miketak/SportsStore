@@ -25,11 +25,7 @@
                 <label>
                     @(property.DisplayName ?? property.PropertyName)
                 </label>
-                @Html.TextBox(property.PropertyName, null, new
-                {
-                    @class =
-                        "form-control"
-                })
+                @Html.TextBox(property.PropertyName, null, new { @class = "form-control" })
              </div>
         }
     }

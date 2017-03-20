@@ -8,11 +8,18 @@ namespace SportsStoreWeb.Controllers
 {
     public class CartController : Controller
     {
-        private readonly IProductRepository repository;
+        private readonly IProductRepository _repository;
+        private readonly IOrderProcessor _orderProcessor;
 
         public CartController(IProductRepository repo)
         {
-            repository = repo;
+            _repository = repo;
+        }
+
+        public CartController(IProductRepository repo, IOrderProcessor proc)  //newly added constructor
+        {
+            _repository = repo;
+            _orderProcessor = proc;
         }
 
         public ViewResult Index(Cart cart, string returnUrl)
@@ -26,7 +33,7 @@ namespace SportsStoreWeb.Controllers
 
         public RedirectToRouteResult AddToCart(Cart cart, int productId, string returnUrl)
         {
-            var product = repository.Products
+            var product = _repository.Products
                 .FirstOrDefault(p => p.ProductID == productId);
             if (product != null)
                 cart.AddItem(product, 1);
@@ -35,7 +42,7 @@ namespace SportsStoreWeb.Controllers
 
         public RedirectToRouteResult RemoveFromCart(Cart cart, int productId, string returnUrl)
         {
-            var product = repository.Products
+            var product = _repository.Products
                 .FirstOrDefault(p => p.ProductID == productId);
             if (product != null)
                 cart.RemoveLine(product);
@@ -50,7 +57,20 @@ namespace SportsStoreWeb.Controllers
         public ViewResult Checkout()
         {
             return View(new ShippingDetails());
-        } 
+        }
 
+        [HttpPost]
+        public ViewResult Checkout(Cart cart, ShippingDetails
+            shippingDetails)
+        {
+            if (cart.Lines.Count() == 0) ModelState.AddModelError("", "Sorry, your cart is empty!");
+            if (ModelState.IsValid)
+            {
+                _orderProcessor.ProcessOrder(cart, shippingDetails);
+                cart.Clear();
+                return View("Completed");
+            }
+            return View(shippingDetails);
+        }
     }
 }

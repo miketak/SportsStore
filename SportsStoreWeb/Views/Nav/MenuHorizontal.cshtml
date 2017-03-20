@@ -1,7 +1,7 @@
 ﻿@model IEnumerable<string>
 
 <div class="btn-group btn-group-sm btn-group-justified">
-    @Html.ActionLink("Home", "List", "Product", new {@class = "btn btndefault btn-sm"})
+    @Html.ActionLink("Home", "List", "Product", null, new {@class = "btn btndefault btn-sm"})
     @foreach (var link in Model)
     {
         @Html.RouteLink(link, new

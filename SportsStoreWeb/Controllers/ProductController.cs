@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System.ComponentModel;
+using System.Linq;
 using System.Web.Mvc;
 using SportsStoreDomain.Abstract;
 using SportsStoreWeb.Models;
@@ -45,5 +46,6 @@ namespace SportsStoreWeb.Controllers
 
             return View(model);
         }
+
     }
 }

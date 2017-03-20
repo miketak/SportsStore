@@ -24,7 +24,6 @@ namespace SportsStoreWeb.Controllers
             });
         }
 
-
         public RedirectToRouteResult AddToCart(Cart cart, int productId, string returnUrl)
         {
             var product = repository.Products
@@ -42,6 +41,16 @@ namespace SportsStoreWeb.Controllers
                 cart.RemoveLine(product);
             return RedirectToAction("Index", new {returnUrl});
         }
+
+        public PartialViewResult Summary(Cart cart)
+        {
+            return PartialView(cart);
+        }
+
+        public ViewResult Checkout()
+        {
+            return View(new ShippingDetails());
+        } 
 
     }
 }
